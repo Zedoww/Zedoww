@@ -25,7 +25,7 @@ validation, and documentation that lets another engineer reproduce the result.
 
 ## Contact
 
-- [LinkedIn](https://fr.linkedin.com/in/allan-seddi-325316255)
+- [LinkedIn](https://fr.linkedin.com/in/allanseddi)
 - [Email](mailto:allanseddi@gmail.com)
 
 I am open to software engineering opportunities and thoughtful technical collaborations.
